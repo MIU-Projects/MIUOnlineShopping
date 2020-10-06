@@ -1,2 +1,2 @@
-# MIUOnlineShopping
-MIU (Maharishi International University) Online Shopping 
+# MIU (Maharishi International University) Online Shopping 
+
